@@ -6,9 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/VRInteraction/InteractionExampleScene.unity
-    guid: b4b5c7fbb983a0140b96a665fb528090
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/_Experience/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
